@@ -1,0 +1,23 @@
+{
+  "name": "3_file_system_organizer",
+  "version": "1.0.0",
+  "description": "<h3 align=\"left\">Tech Stack :</h3>\r <p align=\"left\"> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" alt=\"javascript\" width=\"40\" height=\"40\"/> </a> <a href=\"https://nodejs.org\" target=\"_blank\" rel=\"noreferrer\"> <img src=\"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg\" alt=\"nodejs\" width=\"40\" height=\"40\"/> </a> </p>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "fso": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshan-trivedi-10/file_system_organizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darshan-trivedi-10/file_system_organizer/issues"
+  },
+  "homepage": "https://github.com/darshan-trivedi-10/file_system_organizer#readme"
+}
